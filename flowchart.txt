@@ -1,0 +1,5 @@
+printf project
+description
+concept is to replicate the process as the funcation of C funcation prinf()
+using standard funcation concepts write, malloc, free, va_start, va_end, va_copy, va_arg
+
